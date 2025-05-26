@@ -1,6 +1,4 @@
-Here’s a refined and professional version of your README for the SmartSplit project. It enhances clarity, formatting, and structure, while maintaining all the valuable content:
 
-⸻
 
 💸 SmartSplit – AI-Powered Group Expense Splitter
 
