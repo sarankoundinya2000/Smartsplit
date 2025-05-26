@@ -87,17 +87,12 @@ smart_split_recent.py      # Main Streamlit app
 requirements.txt           # Python dependencies
 credentials.json           # Google OAuth credentials (excluded from repo)
 .env                       # Gemini API key (excluded from repo)
-data/
-  ├── users.json           # User details (auto-generated)
-  ├── groups.json          # Group information (auto-generated)
-  └── expenses.json        # Expense records (auto-generated)
 ```
 
 ---
 
 ## 🔒 Notes
 
-* 🔐 **Data Privacy** – All user data is stored locally in the `/data` folder
 * 🔧 **OAuth & APIs** – Ensure correct API setup and valid credentials.json
 * 🧾 **Image Quality** – Use high-resolution and well-lit images for best extraction results
 
@@ -114,6 +109,4 @@ data/
 Enjoy smarter expense sharing with **SmartSplit**! 🎉
 *Built with ❤️ using Streamlit and Google AI.*
 
----
 
-Let me know if you'd like to include a badge (e.g., build status, license, etc.) or a contribution guide!
