@@ -83,7 +83,7 @@ streamlit run smart_split_recent.py
 ## 📁 File Structure
 
 ```
-smart_split_recent.py      # Main Streamlit app
+smart_split_app.py      # Main Streamlit app
 requirements.txt           # Python dependencies
 credentials.json           # Google OAuth credentials (excluded from repo)
 .env                       # Gemini API key (excluded from repo)
